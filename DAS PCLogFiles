@@ -1,0 +1,4 @@
+2021-04-14 19:52:42 ERROR ConsoleDriver:27 - Thats a BIG no no
+2021-04-14 19:52:42 FATAL ConsoleDriver:28 - Pineapples on pizza
+2021-04-14 19:52:42 ERROR ConsoleDriver:12 - Hello from the other class
+2021-04-14 19:52:42 DEBUG LogClass:16 - Hello from log2 in LogClass
